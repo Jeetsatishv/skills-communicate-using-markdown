@@ -9,3 +9,7 @@ I added 2 different title sizes in this commit
 ``` python
 print("Hello World! From Jeet)
 ```
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
